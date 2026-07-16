@@ -13,7 +13,7 @@
 - ☕ Also comfortable with the **Java**
 - 🌱 Currently exploring: Pandas, NumPy, Matplotlib, scikit-learn
 - 📫 Reach me: **vimalsekar37@gmail.com**
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/vimal-sekar)
+- 🔗 LinkedIn: [Vimal Sekar](https://linkedin.com/in/vimal-sekar)
 
 ---
 
